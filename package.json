@@ -1,0 +1,25 @@
+{
+  "name": "cataneleague",
+  "version": "1.0.0",
+  "description": "Web app",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericbaltha/LeagueManager.git"
+  },
+  "author": "Eric Balthazard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericbaltha/LeagueManager/issues"
+  },
+  "homepage": "https://github.com/ericbaltha/LeagueManager#readme"
+}
